@@ -1,0 +1,20 @@
+impossible_travel:
+  max_speed_kmh: 800.0
+  enabled: true
+
+data_exfiltration:
+  off_hours_start: 0
+  off_hours_end: 5
+  record_threshold: 50000
+  enabled: true
+
+statistical_anomaly:
+  z_score_threshold: 2.5
+  min_historical_samples: 3
+  enabled: true
+
+risk_weights:
+  CRITICAL: 90
+  HIGH: 70
+  MEDIUM: 40
+  LOW: 15

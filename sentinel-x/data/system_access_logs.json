@@ -1,0 +1,74 @@
+[
+  {
+    "event_id": "EVT-1001",
+    "timestamp": "2026-10-02T01:15:00Z",
+    "user_id": "usr-admin-alex",
+    "event_type": "LOGIN_SUCCESS",
+    "source_ip": "185.220.101.5",
+    "location": "Istanbul_TR",
+    "latitude": 41.0082,
+    "longitude": 28.9784,
+    "user_role": "System Administrator"
+  },
+  {
+    "event_id": "EVT-1002",
+    "timestamp": "2026-10-02T01:45:00Z",
+    "user_id": "usr-admin-alex",
+    "event_type": "LOGIN_SUCCESS",
+    "source_ip": "103.21.244.0",
+    "location": "Tokyo_JP",
+    "latitude": 35.6762,
+    "longitude": 139.6503,
+    "user_role": "System Administrator"
+  },
+  {
+    "event_id": "EVT-2001",
+    "timestamp": "2026-09-28T10:00:00Z",
+    "user_id": "usr-dev-sam",
+    "event_type": "DATABASE_EXPORT",
+    "source_ip": "198.51.100.22",
+    "location": "London_UK",
+    "records_extracted": 1200,
+    "user_role": "Developer"
+  },
+  {
+    "event_id": "EVT-2002",
+    "timestamp": "2026-09-29T11:30:00Z",
+    "user_id": "usr-dev-sam",
+    "event_type": "DATABASE_EXPORT",
+    "source_ip": "198.51.100.22",
+    "location": "London_UK",
+    "records_extracted": 1500,
+    "user_role": "Developer"
+  },
+  {
+    "event_id": "EVT-2003",
+    "timestamp": "2026-09-30T14:15:00Z",
+    "user_id": "usr-dev-sam",
+    "event_type": "DATABASE_EXPORT",
+    "source_ip": "198.51.100.22",
+    "location": "London_UK",
+    "records_extracted": 1100,
+    "user_role": "Developer"
+  },
+  {
+    "event_id": "EVT-2004",
+    "timestamp": "2026-10-01T09:20:00Z",
+    "user_id": "usr-dev-sam",
+    "event_type": "DATABASE_EXPORT",
+    "source_ip": "198.51.100.22",
+    "location": "London_UK",
+    "records_extracted": 1300,
+    "user_role": "Developer"
+  },
+  {
+    "event_id": "EVT-2005",
+    "timestamp": "2026-10-02T02:30:00Z",
+    "user_id": "usr-dev-sam",
+    "event_type": "DATABASE_EXPORT",
+    "source_ip": "198.51.100.22",
+    "location": "London_UK",
+    "records_extracted": 150000,
+    "user_role": "Developer"
+  }
+]
