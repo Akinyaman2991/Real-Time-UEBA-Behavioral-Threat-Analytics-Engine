@@ -1,0 +1,46 @@
+# ==========================================
+# Python & Environment
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# IDEs & Code Editors
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+.DS_Store
+
+# ==========================================
+# Testing & Coverage
+# ==========================================
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+.tox/
+
+# ==========================================
+# Project Specific Logs & Runtime Data
+# ==========================================
+*.log
+logs/
+*.sqlite3
+
+# NOT: 'docs/Threat_Detection_Report.md' ve 'data/system_access_logs.json'
+# dosyalarını repoda örnek olarak tutmak isteyebilirsin. 
+# Eğer ürettiğin canlı raporların ve geçici logların git'e girmesini 
+# istemiyorsan aşağıdaki yorum satırlarını kaldırabilirsin:
+# docs/Threat_Detection_Report.md
+# *.log.json
